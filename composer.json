@@ -1,0 +1,18 @@
+{
+    "name": "femomensso/finance",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "react/event-loop": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "":""
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando Momensso",
+            "email": "femomensso@gmail.com"
+        }
+    ]
+}
